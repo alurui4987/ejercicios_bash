@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Número a adivinar (puedes cambiarlo según tus preferencias)
 numero_secreto=42
 
 echo "Introduce un número o introduce 0 para rendirte."
